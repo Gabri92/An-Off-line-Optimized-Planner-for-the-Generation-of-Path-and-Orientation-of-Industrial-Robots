@@ -35,3 +35,5 @@ My contribute to this work is to try to optimize the trajectory planner in order
 In order to pursue the constant velocity of the robot a first step is to manipulatethe points by using **[Nurbs](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)**. Nurbs curve
 is defined as follows:
 $$\dfrac{\sum\limits_{i=0}^{n} N_{i,p}(u)w_i\mathbf{P_i}}{\sum\limits_{i=0}^{n}N_{i,p}(u)w_i}$$
+
+**STILL WORKING IN PROGRESS...**
