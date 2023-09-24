@@ -1,6 +1,5 @@
 # An Off-line Optimized Planner for the Generation of Path and Orientation of Industrial Robots
 
-## Introduction
 ## Reference
 My complete work of thesis is publicly available on the Politecnico di Torino's website at **[this link](https://webthesis.biblio.polito.it/13103/)**.
 ## Algorithm explanation
@@ -47,4 +46,4 @@ The result on a single quaternion is shown on the below figure.
 
 ![image](https://github.com/Gabri92/An-Off-line-Optimized-Planner-for-the-Generation-of-Path-and-Orientation-of-Industrial-Robots/assets/64957258/ce9cee0e-5477-458a-89af-8a0fd81cac2b)
 
-All of the optimization's algorithm can be found in the **[Optimization](/Optimization/)** folder
+All of the optimization's algorithm can be found in the **[Optimization](/Optimization/)** folder.
